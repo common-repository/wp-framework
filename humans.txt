@@ -1,0 +1,36 @@
+
+     ___           ___         ___   
+    /__/\         /  /\       /  /\  
+   _\_ \:\       /  /::\     /  /:/_ 
+  /__/\ \:\     /  /:/\:\   /  /:/ /\
+ _\_ \:\ \:\   /  /:/~/:/  /  /:/ /:/
+/__/\ \:\ \:\ /__/:/ /:/  /__/:/ /:/ 
+\  \:\ \:\/:/ \  \:\/:/   \  \:\/:/  
+ \  \:\ \::/   \  \::/     \  \::/   
+  \  \:\/:/     \  \:\      \  \:\   
+   \  \::/       \  \:\      \  \:\  
+    \__\/         \__\/       \__\/
+
+
+/* TEAM */
+Name: Ptah Dunbar
+Title: Lead Developer
+Twitter: @ptahdunbar
+Location: Miami Beach, FL
+
+/* THANKS */
+WordPress core team, http://wordpress.org
+BuddyPress core team, http://buddypress.org
+
+Michael Heilemann and Chris J Davis, http://getk2.com
+Scott Wallick, http://plaintxt.org/themes/sandbox
+Justin Tadlock, http://themehybrid.com
+Ian Stewart, http://themeshaper.com/thematic
+Ben Eastaugh and Chris Sternal-Johnson, http://tarskitheme.com
+Chris Pearson, http://diythemes.com
+Alex King, http://carringtontheme.com
+Brian Richards, http://wpstartbox.com
+
+/* META */
+Last update: 2011/11/14
+See: http://humanstxt.org
